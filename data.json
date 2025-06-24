@@ -1,0 +1,22 @@
+{
+    "corolla": {
+        "year": 1993,
+        "fuel_type": "gas",
+        "drive": "fwd"
+    },
+    "camry": {
+        "year": 1993,
+        "fuel_type": "gas",
+        "drive": "fwd"
+    },
+    "rav4 2wd": {
+        "year": 1996,
+        "fuel_type": "gas",
+        "drive": "fwd"
+    },
+    "ltd crown victoria": {
+        "year": 1993,
+        "fuel_type": "gas",
+        "drive": "rwd"
+    }
+}
